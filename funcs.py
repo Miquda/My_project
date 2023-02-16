@@ -1,5 +1,8 @@
-def summ(first_number = 1, second_number = 1):
+def summ(first_number=1, second_number=1):
    number = first_number + second_number
    return number
 
 
+def substract(first_number=1, second_number=1):
+   number = first_number - second_number
+   return number
